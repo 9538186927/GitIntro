@@ -6,3 +6,6 @@ grapes
 fruits
 jams
 carrot
+beans
+milk
+bread
