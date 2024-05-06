@@ -4,11 +4,3 @@ apple
 oranges
 grapes
 fruits
-jams
-carrot
-beans
-milk
-bread
-eggs
-brocolli
-cheese
