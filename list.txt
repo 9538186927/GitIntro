@@ -9,3 +9,6 @@ carrot
 beans
 milk
 bread
+eggs
+brocolli
+cheese
