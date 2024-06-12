@@ -1,6 +1,0 @@
-My list
-
-apple
-oranges
-grapes
-fruits
